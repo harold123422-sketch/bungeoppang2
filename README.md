@@ -1,4 +1,4 @@
-# 🐟 bungeoppang2 — 붕어빵 로봇 (Doosan E0509)
+# 🐟 BOTBOONG O (Doosan E0509)
 
 손님이 오면 인사하고, 음성으로 주문을 받아, 두산 E0509 로봇팔이 반죽 붓기부터 속재료 넣기, 뚜껑 닫기, 뒤집기, 뚜껑 열기까지 붕어빵을 굽는 ROS 2 패키지입니다.
 [bungeoppang](https://github.com/SujinJi/bungeoppang)(M1013 · MoveIt 2 기반)을 실물 E0509에 맞춰 처음부터 다시 만든 버전으로, 모션은 두산 `DSR_ROBOT2` API(`movej` / `movel`)로 직접 제어합니다.
